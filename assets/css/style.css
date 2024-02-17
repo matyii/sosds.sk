@@ -1,0 +1,11 @@
+.popup {
+    transition: 0.3s ease-in-out;
+}
+
+.popup:hover {
+    transform: scale(1.02);
+}
+
+.pointer {
+    cursor: pointer;
+}
